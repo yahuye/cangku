@@ -6,6 +6,6 @@ yahuy仓库测试
 - Gtit使用场景
 - Github介绍
 
-、、、
+```
 let a=1
-、、、
+```
